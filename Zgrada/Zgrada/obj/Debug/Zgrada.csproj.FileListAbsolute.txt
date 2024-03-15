@@ -1,0 +1,10 @@
+C:\Users\Korisnik\source\repos\Zgrada\Zgrada\bin\Debug\Zgrada.exe.config
+C:\Users\Korisnik\source\repos\Zgrada\Zgrada\bin\Debug\Zgrada.exe
+C:\Users\Korisnik\source\repos\Zgrada\Zgrada\bin\Debug\Zgrada.pdb
+C:\Users\Korisnik\source\repos\Zgrada\Zgrada\obj\Debug\Zgrada.csproj.AssemblyReference.cache
+C:\Users\Korisnik\source\repos\Zgrada\Zgrada\obj\Debug\Zgrada.Form1.resources
+C:\Users\Korisnik\source\repos\Zgrada\Zgrada\obj\Debug\Zgrada.Properties.Resources.resources
+C:\Users\Korisnik\source\repos\Zgrada\Zgrada\obj\Debug\Zgrada.csproj.GenerateResource.cache
+C:\Users\Korisnik\source\repos\Zgrada\Zgrada\obj\Debug\Zgrada.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\source\repos\Zgrada\Zgrada\obj\Debug\Zgrada.exe
+C:\Users\Korisnik\source\repos\Zgrada\Zgrada\obj\Debug\Zgrada.pdb
